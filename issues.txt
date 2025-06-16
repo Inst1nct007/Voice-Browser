@@ -1,0 +1,1 @@
+#1 Model falsly identifies searchbar even when no searchbar is present.
